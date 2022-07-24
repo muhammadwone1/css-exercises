@@ -4,9 +4,15 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 #guppy {
-color: rgba(rgb(64, 61, 235), green, blue, alpha);
+color: rgb(43, 43, 211);
 font-size: 36px;
 }
+.bfg{
+    background-color: rgba(82, 9, 39, 0.2);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+}
+
 #poppy{
 
 }
